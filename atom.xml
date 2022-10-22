@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bluestone</title>
+  
+  <subtitle>Web UI Automation for Pro-Coder and No-Coder.</subtitle>
+  <link href="https://3wweiweiwu.github.io/bluestone-site/atom.xml" rel="self"/>
+  
+  <link href="https://3wweiweiwu.github.io/bluestone-site/"/>
+  <updated>2022-10-22T13:28:54.307Z</updated>
+  <id>https://3wweiweiwu.github.io/bluestone-site/</id>
+  
+  <author>
+    <name>Bluestone</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo 3.8.0 Released</title>
+    <link href="https://3wweiweiwu.github.io/bluestone-site/news/2018/10/19/hexo-3-8-released/"/>
+    <id>https://3wweiweiwu.github.io/bluestone-site/news/2018/10/19/hexo-3-8-released/</id>
+    <published>2018-10-19T04:00:00.000Z</published>
+    <updated>2022-10-22T13:28:54.307Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="New-feature"><a href="#New-feature" class="headerlink" title="New feature"></a>New feature</h2><ul><li>Supported absolute config path <a href="https://github.com/hexojs/hexo/issues/3118">#3118</a></li><li>Added command line option <code>--output</code> to write <code>db.json</code> and <code>_multiconfig</code> to different paths <a href="https://github.com/hexojs/hexo/issues/3122">#3122</a></li><li>Added meta generator injection filter <a href="https://github.com/hexojs/hexo/issues/3129">#3129</a></li></ul><h2 id="Housekeeping"><a href="#Housekeeping" class="headerlink" title="Housekeeping"></a>Housekeeping</h2><p><a href="https://github.com/hexojs/hexo/issues/3124">#3124</a>, <a href="https://github.com/hexojs/hexo/issues/3117">#3117</a>, <a href="https://github.com/hexojs/hexo/issues/3102">#3102</a>, <a href="https://github.com/hexojs/hexo/issues/3276">#3276</a>, <a href="https://github.com/hexojs/hexo/issues/3284">#3284</a>, <a href="https://github.com/hexojs/hexo/issues/3285">#3285</a>, <a href="https://github.com/hexojs/hexo/issues/3290">#3290</a>, <a href="https://github.com/hexojs/hexo/issues/3293">#3293</a></p><p>More info: <a href="https://github.com/hexojs/hexo/releases">changelog</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;New-feature&quot;&gt;&lt;a href=&quot;#New-feature&quot; class=&quot;headerlink&quot; title=&quot;New feature&quot;&gt;&lt;/a&gt;New feature&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Supported absolute config pa</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
